@@ -7,5 +7,5 @@ def magic_calculation(a, b):
             sum = add(sum, i)
         return sum
     else:
-        return (sub(a, b))
+        return sub(a, b)
 
